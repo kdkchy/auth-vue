@@ -1,4 +1,5 @@
 # auth-vue
+Authentication in VueJS with JWT (router, vuex, axios)
 
 ## Project setup
 ```
